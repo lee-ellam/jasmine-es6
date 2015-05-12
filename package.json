@@ -16,5 +16,6 @@
     "karma-browserify": "^4.1.2",
     "karma-jasmine": "^0.3.5",
     "karma-phantomjs-launcher": "^0.1.4"
-  }
+  },
+  "repository": "https://github.com/lee-ellam/jasmine-es6"
 }

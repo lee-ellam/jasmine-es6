@@ -1,0 +1,20 @@
+{
+  "name": "jasmine-es6",
+  "version": "1.0.0",
+  "description": "A test of using jasmine with es6 (code and specs)",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start --single-run"
+  },
+  "author": "leesus",
+  "license": "MIT",
+  "devDependencies": {
+    "babelify": "^6.1.0",
+    "jasmine-core": "^2.3.3",
+    "karma": "^0.12.31",
+    "karma-babel-preprocessor": "^5.1.0",
+    "karma-browserify": "^4.1.2",
+    "karma-jasmine": "^0.3.5",
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
+}
